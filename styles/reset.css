@@ -1,0 +1,95 @@
+﻿html,
+body,
+div,
+span,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+address,
+img,
+small,
+strong,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+form,
+label,
+table,
+caption,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+figcaption,
+figure,
+footer,
+header,
+menu,
+nav,
+section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+  font-family: "A-OTF-MidashiGoPro-MB31", Helvetica, "メイリオ", "Meiryo", "游ゴシック", "Yu Gothic", sans-serif;
+}
+body {
+  line-height: 1;
+  color: #414040;
+}
+article,
+figcaption,
+figure,
+footer,
+menu,
+nav,
+section {
+  display: block;
+}
+li {
+  list-style: none;
+}
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+input,
+select {
+  vertical-align: middle;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+a:hover {
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+  -moz-opacity: 0.8;
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+/*# sourceMappingURL=reset.css.map */
